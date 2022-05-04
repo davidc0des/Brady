@@ -1,0 +1,12 @@
+C:\Projects\Visual Studio\Brady\Brady\Brady.Data\bin\Debug\net6.0\Brady.Data.deps.json
+C:\Projects\Visual Studio\Brady\Brady\Brady.Data\bin\Debug\net6.0\Brady.Data.dll
+C:\Projects\Visual Studio\Brady\Brady\Brady.Data\bin\Debug\net6.0\ref\Brady.Data.dll
+C:\Projects\Visual Studio\Brady\Brady\Brady.Data\bin\Debug\net6.0\Brady.Data.pdb
+C:\Projects\Visual Studio\Brady\Brady\Brady.Data\obj\Debug\net6.0\Brady.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Visual Studio\Brady\Brady\Brady.Data\obj\Debug\net6.0\Brady.Data.AssemblyInfoInputs.cache
+C:\Projects\Visual Studio\Brady\Brady\Brady.Data\obj\Debug\net6.0\Brady.Data.AssemblyInfo.cs
+C:\Projects\Visual Studio\Brady\Brady\Brady.Data\obj\Debug\net6.0\Brady.Data.csproj.CoreCompileInputs.cache
+C:\Projects\Visual Studio\Brady\Brady\Brady.Data\obj\Debug\net6.0\Brady.Data.dll
+C:\Projects\Visual Studio\Brady\Brady\Brady.Data\obj\Debug\net6.0\ref\Brady.Data.dll
+C:\Projects\Visual Studio\Brady\Brady\Brady.Data\obj\Debug\net6.0\Brady.Data.pdb
+C:\Projects\Visual Studio\Brady\Brady\Brady.Data\obj\Debug\net6.0\Brady.Data.csproj.AssemblyReference.cache

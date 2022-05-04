@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Brady.Services/1.0.0": {
+        "dependencies": {
+          "Brady.Data": "1.0.0"
+        },
+        "runtime": {
+          "Brady.Services.dll": {}
+        }
+      },
+      "Brady.Data/1.0.0": {
+        "runtime": {
+          "Brady.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Brady.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Brady.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

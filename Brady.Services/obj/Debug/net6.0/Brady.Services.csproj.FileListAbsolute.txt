@@ -1,0 +1,15 @@
+C:\Projects\Visual Studio\Brady\Brady\Brady.Services\bin\Debug\net6.0\Brady.Services.deps.json
+C:\Projects\Visual Studio\Brady\Brady\Brady.Services\bin\Debug\net6.0\Brady.Services.dll
+C:\Projects\Visual Studio\Brady\Brady\Brady.Services\bin\Debug\net6.0\ref\Brady.Services.dll
+C:\Projects\Visual Studio\Brady\Brady\Brady.Services\bin\Debug\net6.0\Brady.Services.pdb
+C:\Projects\Visual Studio\Brady\Brady\Brady.Services\bin\Debug\net6.0\Brady.Data.dll
+C:\Projects\Visual Studio\Brady\Brady\Brady.Services\bin\Debug\net6.0\Brady.Data.pdb
+C:\Projects\Visual Studio\Brady\Brady\Brady.Services\obj\Debug\net6.0\Brady.Services.csproj.AssemblyReference.cache
+C:\Projects\Visual Studio\Brady\Brady\Brady.Services\obj\Debug\net6.0\Brady.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Visual Studio\Brady\Brady\Brady.Services\obj\Debug\net6.0\Brady.Services.AssemblyInfoInputs.cache
+C:\Projects\Visual Studio\Brady\Brady\Brady.Services\obj\Debug\net6.0\Brady.Services.AssemblyInfo.cs
+C:\Projects\Visual Studio\Brady\Brady\Brady.Services\obj\Debug\net6.0\Brady.Services.csproj.CoreCompileInputs.cache
+C:\Projects\Visual Studio\Brady\Brady\Brady.Services\obj\Debug\net6.0\Brady.Services.csproj.CopyComplete
+C:\Projects\Visual Studio\Brady\Brady\Brady.Services\obj\Debug\net6.0\Brady.Services.dll
+C:\Projects\Visual Studio\Brady\Brady\Brady.Services\obj\Debug\net6.0\ref\Brady.Services.dll
+C:\Projects\Visual Studio\Brady\Brady\Brady.Services\obj\Debug\net6.0\Brady.Services.pdb
